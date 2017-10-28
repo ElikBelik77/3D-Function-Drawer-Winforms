@@ -1,0 +1,28 @@
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\bin\Debug\3D.exe.config
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\bin\Debug\3D.exe
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\bin\Debug\3D.pdb
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\obj\Debug\3D.csprojResolveAssemblyReference.cache
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\obj\Debug\_3D.Form1.resources
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\obj\Debug\_3D.Properties.Resources.resources
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\obj\Debug\3D.csproj.GenerateResource.Cache
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\obj\Debug\3D.exe
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3D\3D\obj\Debug\3D.pdb
+C:\Users\Eliran Ziv\Desktop\3D\3D\bin\Debug\3D.exe.config
+C:\Users\Eliran Ziv\Desktop\3D\3D\obj\Debug\3D.exe
+C:\Users\Eliran Ziv\Desktop\3D\3D\obj\Debug\3D.pdb
+C:\Users\Eliran Ziv\Desktop\3D\3D\bin\Debug\3D.exe
+C:\Users\Eliran Ziv\Desktop\3D\3D\bin\Debug\3D.pdb
+C:\Users\Eliran Ziv\Desktop\3D\3D\obj\Debug\3D.csprojResolveAssemblyReference.cache
+C:\Users\Eliran Ziv\Desktop\3D\3D\obj\Debug\_3D.Form1.resources
+C:\Users\Eliran Ziv\Desktop\3D\3D\obj\Debug\_3D.Properties.Resources.resources
+C:\Users\Eliran Ziv\Desktop\3D\3D\obj\Debug\3D.csproj.GenerateResource.Cache
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\bin\Debug\3D.exe.config
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\bin\Debug\3D.exe
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\bin\Debug\3D.pdb
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\3D.csprojResolveAssemblyReference.cache
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\_3D.Form1.resources
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\_3D.Properties.Resources.resources
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\3D.csproj.GenerateResource.Cache
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\3D.csproj.CoreCompileInputs.cache
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\3D.exe
+E:\Downloads\Projects-20171028T110854Z-001\Projects\3 Dimensional Function Drawer - Windows Forms\3D\obj\Debug\3D.pdb
